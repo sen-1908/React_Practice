@@ -1,2 +1,2 @@
-# React_Practice
+# Practice-React
 Created with CodeSandbox
